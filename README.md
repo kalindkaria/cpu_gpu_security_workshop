@@ -10,3 +10,4 @@ This repository contains the code and other resources used in the workshop.
 
 - `flush-reload-attack`: Contains code related to the Flush+Reload attack.
 - `rowhammer-attack`: Contains code related to the Rowhammer attack.
+    - demonstration video: [link 🔗](https://drive.google.com/file/d/13NM7h40R6zRn-bE4aggYF1Vd6qF8Jsh9/view?usp=sharing)
